@@ -147,7 +147,6 @@ namespace YoungPackage.Data
         {
             var dataTypeKey = defaultT.GetType().Name;
 
-            return defaultT;
             return PlayerPrefs.HasKey(dataTypeKey)
                 ? JsonConvert.DeserializeObject<T>(PlayerPrefs.GetString(dataTypeKey, "null"))
                 : defaultT;
