@@ -1,8 +1,8 @@
-﻿{
+{
   "name": "com.youngpackage.data",
   "displayName": "DataManager",
   "description": "This plugin is management your local data",
-  "version": "1.0.0",
+  "version": "v1.0.0",
   "unity": "2020.1",
   "license": "MIT",
   "keywords": [
