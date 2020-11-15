@@ -1,0 +1,8 @@
+﻿{
+  "name": "YoungPackage.Data",
+  "references": [],
+  "optionalUnityReferences": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false
+}

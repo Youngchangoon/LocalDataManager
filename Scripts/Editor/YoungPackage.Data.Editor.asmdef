@@ -1,0 +1,16 @@
+﻿{
+  "name": "YoungPackage.Data.Editor",
+  "references": [
+    "YoungPackage.Data"
+  ],
+  "optionalUnityReferences": [],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": true,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": []
+}

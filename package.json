@@ -1,0 +1,33 @@
+﻿{
+  "name": "com.youngpackage.data",
+  "displayName": "DataManager",
+  "description": "This plugin is management your local data",
+  "version": "1.0.0",
+  "unity": "2020.1",
+  "license": "MIT",
+  "keywords": [
+    "Data",
+    "PlayerPrefs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Youngchangoon/DataManager.git"
+  },
+  "author": {
+    "name": "Youngchangoon",
+    "email": "youngchangoon521@gmail.com",
+    "url": "https://github.com/Youngchangoon"
+  },
+  "dependencies": {
+    "jillejr.newtonsoft.json-for-unity": "12.0.301"
+  },
+  "scopedRegistries": [
+    {
+      "name": "Packages from jillejr",
+      "url": "https://npm.cloudsmith.io/jillejr/newtonsoft-json-for-unity/",
+      "scopes": [
+        "jillejr"
+      ]
+    }
+  ]
+}
